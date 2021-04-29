@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/NLW_React/node_modules
+/NLW_React/.pnp
+/NLW_React/.pnp.js
+
+# testing
+/NLW_React/coverage
+
+# production
+/NLW_React/build
+
+# misc
+/NLW_React/.DS_Store
+/NLW_React/.env.local
+/NLW_React/.env.development.local
+/NLW_React/.env.test.local
+/NLW_React/.env.production.local
+
+/NLW_React/npm-debug.log*
+/NLW_React/yarn-debug.log*
+/NLW_React/yarn-error.log*
